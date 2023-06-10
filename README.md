@@ -2,7 +2,7 @@
 
 админка: admin boardpassword
 
-библиотеки: django_apscheduler, django_filters, ckeditor (доп.плагин - html5video + зависимости, + доп.настройки в config.js), ckeditor_uploader, allauth
+библиотеки: django_apscheduler, django_filters, ckeditor (доп.плагин - html5video + зависимости, + доп.настройки в config.js), ckeditor_uploader, allauth, dotenv
 
 Нам необходимо разработать интернет-ресурс для фанатского сервера одной известной MMORPG — что-то вроде доски объявлений.
 Пользователи нашего ресурса должны иметь возможность зарегистрироваться в нём по e-mail, получив письмо с кодом подтверждения регистрации.
